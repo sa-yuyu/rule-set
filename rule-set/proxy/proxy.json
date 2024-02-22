@@ -3,10 +3,9 @@
     "rules": [
         {
             "domain_suffix": [
-                "msftconnecttest.com",
                 "assrt.net",
                 "mikanani.me"
             ]
         }
     ]
-  }
+}
