@@ -1,13 +1,17 @@
 {
-    "version": 1,
+    "version": 2,
     "rules": [
         {
             "domain_suffix": [
+                "gstatic.com",
                 "assrt.net",
                 "mikanani.me",
                 "loli.net",
                 "esjzone.me",
                 "esjzone.cc"
+            ],
+            "domain_keyword": [
+                "google"
             ]
         }
     ]
