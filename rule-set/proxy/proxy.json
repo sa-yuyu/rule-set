@@ -3,6 +3,7 @@
     "rules": [
         {
             "domain_suffix": [
+                "googleapis.cn",
                 "gstatic.com",
                 "assrt.net",
                 "mikanani.me",
